@@ -3019,7 +3019,7 @@ input:focus {
 
 .howFree__img {
     max-width: 280px;
-    /*width: 100%*/
+    width: 100%
 }
 
 .howFree__img::before {
