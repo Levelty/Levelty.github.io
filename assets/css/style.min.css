@@ -3019,7 +3019,7 @@ input:focus {
 
 .howFree__img {
     max-width: 280px;
-    width: 100%
+    /*width: 100%*/
 }
 
 .howFree__img::before {
@@ -5051,15 +5051,25 @@ input:focus {
     }
 
     .btn_android {
-        padding: 10px;
+        padding: 11px 18.5px;
         line-height: 23px;
-        font-size: 16px;
+        font-size: 18px;
         align-items: center;
         min-width: 150px;
         justify-content: center
     }
 
     .btn_ios {
+        padding: 11px 18.5px;
+        line-height: 23px;
+        font-size: 16px;
+        display: flex;
+        align-items: center;
+        min-width: 150px;
+        justify-content: center
+    }
+
+    .btn_ios_black {
         padding: 11px 18.5px;
         line-height: 23px;
         font-size: 16px;
@@ -5355,9 +5365,9 @@ input:focus {
         margin-top: 5px
     }
 
-    .blockJoin__img img {
-        max-height: 250px
-    }
+    /*.blockJoin__img img {*/
+    /*    max-height: 250px*/
+    /*}*/
 
     .blockJoin-content__title p {
         font-size: 22px
