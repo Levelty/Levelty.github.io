@@ -2770,6 +2770,7 @@ input:focus {
 }
 
 .forWhom__imgs {
+    margin-left: 46px;
     position: relative
 }
 
@@ -2786,8 +2787,8 @@ input:focus {
 .forWhom-imgs__mob.forWhom-imgs__mob_two {
     position: absolute;
     max-width: 246px;
-    bottom: 0;
-    left: auto;
+    bottom: -48px;
+    left: 268px;
     right: -110px;
     max-height: 505px;
     -o-object-fit: contain;
@@ -2803,10 +2804,11 @@ input:focus {
 
 .forWhom-imgs__one.forWhom-imgs__one_two {
     position: absolute;
-    bottom: 140px;
+    bottom: 302px;
     max-width: 375px;
-    left: 0;
-    right: auto
+    left: 203px;
+    right: auto;
+    width: 25%
 }
 
 .forWhom-imgs__two {
@@ -2818,10 +2820,10 @@ input:focus {
 
 .forWhom-imgs__two.forWhom-imgs__two_two {
     position: absolute;
-    bottom: -50px;
+    bottom: -24px;
     max-width: 375px;
     right: auto;
-    left: 60px
+    left: -31px
 }
 
 .forWhom-item__tags {
