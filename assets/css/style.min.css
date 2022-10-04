@@ -4818,9 +4818,12 @@ input:focus {
         max-height: 250px
     }
 
+
+
     .forWhom-imgs__mob.forWhom-imgs__mob_two {
-        max-height: 250px;
-        right: 0
+        max-height: 200px;
+        left: 150px;
+        bottom: 3px;
     }
 
     .forWhom-imgs__one, .forWhom-imgs__one.forWhom-imgs__one_two {
@@ -5440,9 +5443,18 @@ input:focus {
         max-height: 200px;
         right: -80px
     }
+    .forWhom-imgs__one {
+        max-width: 150px;
+        bottom: 80px;
+        width: 50%;
+        left: 170px;
+    }
 
-    .forWhom-imgs__one, .forWhom-imgs__one.forWhom-imgs__one_two {
-        max-width: 150px
+    .forWhom-imgs__one.forWhom-imgs__one_two {
+        max-width: 150px;
+        bottom: 200px;
+        width: 40%;
+        left: 170px;
     }
 
     .forWhom-imgs__two, .forWhom-imgs__two.forWhom-imgs__two_two {
