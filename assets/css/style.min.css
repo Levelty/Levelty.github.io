@@ -4080,7 +4080,7 @@ input:focus {
 
 .burger-setting__wrapper {
     display: flex;
-    padding: 0 13px;
+    padding: 15px 13px;
     justify-content: space-between
 }
 
