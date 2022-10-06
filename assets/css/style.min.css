@@ -2713,7 +2713,7 @@ input:focus {
     right: -1px;
     bottom: -1px;
     left: -1px;
-    border-radius: 8px;
+    border-radius: 9px;
     opacity: 1;
     background: linear-gradient(167.96deg, #ffda96 0, #923cff 100%)
 }
@@ -2979,7 +2979,7 @@ input:focus {
     right: -1px;
     bottom: -1px;
     left: -1px;
-    border-radius: 8px;
+    border-radius: 9px;
     opacity: 1;
     background: linear-gradient(167.96deg, #ffda96 0, #923cff 100%)
 }
